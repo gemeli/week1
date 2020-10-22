@@ -1,9 +1,8 @@
 {
 "headers":{
 "/*":{
-"X-Author":"gemelli"
+"X-Author":"gemelli",
+"Access-Control-Allow-Origin":"*"  
 }
-
-
 }
 }
